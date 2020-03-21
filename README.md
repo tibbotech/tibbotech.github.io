@@ -1,3 +1,2 @@
-# tibbotech.github.io
-Tibbo GitHub pages
-sdssdad
+# Tibbo Technology Inc.
+Open-source repos
