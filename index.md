@@ -2,7 +2,7 @@
 
 Tibbo Technology is a leader in IoT enablement, Serial-over-IP, data collection, and industrial automation.
 
-Here is the collection of open-source company projects.
+Here is the collection of Tibbo Tech. open-source projects.
 
 # Tibbo/SunPlus Yocto Layers
 
