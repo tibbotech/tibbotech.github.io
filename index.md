@@ -18,6 +18,7 @@ to create the complete customized uniq Linux distribuition for they
 Plus1 devices.
 
 In short: Highly-customizable Linux distribution.
+
 Target OS and devices: Linux on Plus1.
 
 # Remote IO
@@ -30,6 +31,7 @@ Controllers.
 See the [GitHub Remote-IO](https://github.com/tibbotech/Remote-IO) repo.
 
 In short: Scada HW node, modbus/i2c/1w/.. sensors data collector, remote I/O.
+
 Target OS and devices: TiOS on TPS.
 
 
