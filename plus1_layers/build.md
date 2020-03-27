@@ -8,7 +8,7 @@ $ . oe-init-build-env c.tppg2
 ```
 
 ## Build Linux kernel, rootfs and bootloader
-Open CLI session (console) and do
+In previously opened CLI session (console):
 ```
 $ bitbake img-spmn
 ```
