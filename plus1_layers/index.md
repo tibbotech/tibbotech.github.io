@@ -1,7 +1,7 @@
-# Tibbo Yocto Linux
+# Tibbo Yocto Linux Distribution
 
-Yocto Layers at <https://github.com/tibbotech/yocto_layers> is for people who
-want to make his own Linux customized distribution for his custom board
+Tibbo Yocto Layers at <https://github.com/tibbotech/yocto_layers> is for developers who
+want to make they own Linux distribution for they custom board
 or for thouse who wants take part in bootloader/kernel development for 
 [Plus1/sp7021](https://tibbo.com/store/plus1.html) SoC.
 
