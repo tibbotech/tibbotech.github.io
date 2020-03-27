@@ -1,4 +1,4 @@
-# [Yocto Layers](/plus1_layers): HowTo: Build
+# [Yocto Layers](/plus1_layers): Building
 
 ## Get ready for build (should be done once for CLI session)
 Open CLI session (console) and do

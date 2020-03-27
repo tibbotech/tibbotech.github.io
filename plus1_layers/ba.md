@@ -1,4 +1,4 @@
-# [Yocto Layers](/plus1_layers): HowTo: Running Build Applience
+# [Yocto Layers](/plus1_layers): Running Build Applience
 
 Build Applience is the virtual machine Linux OS image cooked to kick-start 
 your Yocto development process immediately. All Yocto layers are configured and
