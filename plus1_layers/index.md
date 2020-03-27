@@ -6,6 +6,8 @@
 
 [Packaging](packaging) your own distribution.
 
+## Qustions and Answers
+
 > What is this ISPBOOOT.BIN file, what is the humor here. Is it mandatory or not ?
 
 It is the bootloader+kernel+rootfs packed in one file. Structure is there:
