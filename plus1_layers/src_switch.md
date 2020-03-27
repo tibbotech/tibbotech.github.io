@@ -9,7 +9,7 @@ Public Tibbo repos are used by default.
 
 To switch between source change values at
 
-https://github.com/tibbotech/yocto_layers/blob/master/meta-tibbo/conf/machine/include/tppg2-all-prefs.inc
+<https://github.com/tibbotech/yocto_layers/blob/master/meta-tibbo/conf/machine/include/tppg2-all-prefs.inc>
 
 and rebuild the image:
 ```
