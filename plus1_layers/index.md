@@ -35,7 +35,7 @@ how to run [SDK on Windows 10](https://tibbo.com/linux/native-c/windows.html), e
 If you're curious about SoC technical documentation, please take a look at
 [SunPlus/Tibbo Wiki](https://sunplus-tibbo.atlassian.net/wiki/spaces/doc/overview).
 
-Special feature: [Flexible Peripheral Multiplexing](muxing) (PinMux) is available in Linux.
+Special feature: [Flexible Run-Time Peripheral Multiplexing](muxing) (PinMux) is available in Linux.
 
 ## Yocto Layers: HowTo
 
