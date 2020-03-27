@@ -1,4 +1,32 @@
-# Yocto Layers: HowTo
+# Tibbo Yocto Linux
+
+Yocto Layers at <https://github.com/tibbotech/yocto_layers> is for people who
+want to make his own Linux customized distribution for his custom board
+or for thouse who wants take part in bootloader/kernel development for 
+[Plus1/sp7021](https://tibbo.com/store/plus1.html) SoC.
+
+Tibbo hosts prebuild Linux for LTPPxG2 sp7021-based board, including:
+- LTPPxG2 Firmware: <https://tibbo.com/downloads/LTPS/FW/LTPPg2/>
+- LTPPxG2 binary packages: <https://tibbo.com/downloads/LTPS/repo/LTPPg2/>
+- LTPPxG2 SDK: <https://tibbo.com/downloads/LTPS/SDK/LTPPg2/>
+- LTPPxG2 BuildApplience <https://tibbo.com/downloads/LTPS/BuildAppliance/>
+
+Binary packages is the collection of most necessary packets you may need to use
+with LTPPxG2 board. The collection includes Tibbo closed-source packages, like
+- [TiOS](https://docs.tibbo.com/taiko/intro_tios).
+- [AggreGate](https://aggregate.tibbo.com/) and AggreGate Agent.
+- etc.
+a well, as open-source software like Python packages, NodeJS modules, JRE,
+various cli utilities.
+
+If you're just an application or kernel module developer for LTPPxG2 board then
+SDK fits your needs.
+
+If you have your own Plus1/sp7021-based board then your choice is Yocto Layers:
+clone and customize it for your needs.
+
+
+## Yocto Layers: HowTo
 
 [Clonning layers](clonning) from GitHub.
 
