@@ -19,7 +19,7 @@ Plus1 devices.
 
 In short: Highly-customizable Linux distribution.
 
-Target OS and devices: Linux on Plus1.
+Target OS and devices: Linux on [Plus1](https://tibbo.com/store/plus1.html).
 
 # Remote IO
 
@@ -32,8 +32,7 @@ See the [GitHub Remote-IO](https://github.com/tibbotech/Remote-IO) repo.
 
 In short: Scada HW node, modbus/i2c/1w/.. sensors data collector, remote I/O.
 
-Target OS and devices: TiOS on TPS.
-
+Target OS and devices: TiOS on [TPS](https://tibbo.com/tps.html).
 
 # Modbus Gateway
 
@@ -43,5 +42,5 @@ Modbus RTU masters and slaves.
 
 See the [GitHub Modbus Gateway](https://github.com/tibbotech/Modbus-Gateway) repo.
 
-Target OS and devices: TiOS on TPS/EM2000/DS110x.
+Target OS and devices: TiOS on [TPS](https://tibbo.com/tps.html)/[EM2000](http://tibbo.com/store/modules/em2000.html)/[DS110x](http://tibbo.com/store/controllers/ds1101.html).
 
