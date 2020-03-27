@@ -19,6 +19,6 @@ Individual pin/group muxing may be done by running
 ```
 # echo -e "\0xNN" > /sys/bus/platform/devices/9c000100.pctl/<func>
 ```
-, where NN is hex pin number, <func> is the function.
+, where NN is hex pin number, < func > is the function.
 
 Flexible mux driver supports bulk muxing and onboot firmware load.
