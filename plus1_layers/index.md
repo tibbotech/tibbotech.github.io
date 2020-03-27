@@ -17,7 +17,8 @@ with LTPPxG2 board. The collection includes Tibbo closed-source packages, like
 - [AggreGate](https://aggregate.tibbo.com/) and [AggreGate Agent](https://aggregate.tibbo.com/technology/connectivity/agents.html).
 - etc.
 
-as well, as Python packages, NodeJS modules, JRE, various cli utilities.
+as well, as Python packages, NodeJS modules, JRE, OpenCV, Qt5 libs 
+(also included into SDK), various cli utilities.
 
 If you're just an application or external kernel module developer for LTPPxG2 
 board then SDK right for your needs.
