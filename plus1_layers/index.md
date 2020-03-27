@@ -13,8 +13,8 @@ Tibbo hosts prebuild Linux for LTPPxG2 sp7021-based board, including:
 
 Binary packages is the collection of most necessary packets you may need to use
 with LTPPxG2 board. The collection includes Tibbo closed-source packages, like
-- [TiOS](https://docs.tibbo.com/taiko/intro_tios).
-- [AggreGate](https://aggregate.tibbo.com/) and AggreGate Agent.
+- [TiOS](https://docs.tibbo.com/taiko/intro_tios) as user-space Linux application.
+- [AggreGate](https://aggregate.tibbo.com/) and [AggreGate Agent](https://aggregate.tibbo.com/technology/connectivity/agents.html).
 - etc.
 
 as well, as Python packages, NodeJS modules, JRE, various cli utilities.
