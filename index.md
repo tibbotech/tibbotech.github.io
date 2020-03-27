@@ -17,7 +17,7 @@ Tibbo is official sp7021 SoC distributor. SoC users may customize Yocto layers
 to create the complete customized uniq Linux distribuition for they
 Plus1 devices.
 
-Repo: [Yocto Layers](https://github.com/tibbotech/yocto_layers).
+Repo: [Yocto Layers](https://github.com/tibbotech/yocto_layers) , [HowTo](plus1_layers/).
 
 In short: Highly-customizable Linux distribution.
 
