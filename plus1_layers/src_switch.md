@@ -2,7 +2,7 @@
 
 There are several repos (bootloaders and kernel) hosted in two locations:
 
-* SunPlus "development" repos hosted internally, accessible by key request;
+* SunPlus "development" repos hosted internally, accessible with key by request;
 * Tibbo "release" repos are hosted at GitHub, publicly available;
 
 Public Tibbo repos are used by default.
