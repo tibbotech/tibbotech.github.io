@@ -15,7 +15,7 @@ Binary packages is the collection of most necessary packets you may need to use
 with LTPPxG2 board. The collection includes Tibbo closed-source packages, like
 - [TiOS](https://docs.tibbo.com/taiko/intro_tios) as user-space Linux application.
 - [AggreGate](https://aggregate.tibbo.com/) and [AggreGate Agent](https://aggregate.tibbo.com/technology/connectivity/agents.html).
-- etc.
+- [Configurator](https://tibbo.com/tps/configurator.html) and device management web interface, etc.
 
 as well, as Python packages, NodeJS modules, JRE, OpenCV, Qt5 libs 
 (also included into SDK), various cli utilities.
