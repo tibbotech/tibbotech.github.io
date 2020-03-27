@@ -21,7 +21,7 @@ Repo: [Yocto Layers](https://github.com/tibbotech/yocto_layers).
 
 In short: Highly-customizable Linux distribution.
 
-Target OS and devices: Linux on [Plus1](https://tibbo.com/store/plus1.html).
+Target OS and devices: Linux on [Plus1/sp7021](https://tibbo.com/store/plus1.html).
 
 # Remote IO
 
