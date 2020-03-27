@@ -44,5 +44,5 @@ Modbus RTU masters and slaves.
 
 Repo: [GitHub Modbus Gateway](https://github.com/tibbotech/Modbus-Gateway).
 
-Target OS and devices: TiOS on [TPS](https://tibbo.com/tps.html)/[EM2000](http://tibbo.com/store/modules/em2000.html)/[DS110x](http://tibbo.com/store/controllers/ds1101.html).
+Target OS and devices: TiOS on [TPS](https://tibbo.com/tps.html)/[EM2000](http://tibbo.com/store/modules/em2000.html)/[DS110x](https://tibbo.com/programmable/controllers.html).
 
