@@ -4,9 +4,11 @@
 
 [Building](build) the firmware.
 
-Running [BuildApplience](ba)
+Running the [BuildApplience](ba)
 
 [Packaging](packaging) your own distribution.
+
+[Switchin](src_switch) switching between Tibbo (release) and SunPlus (development) repos.
 
 ## Qustions and Answers
 
