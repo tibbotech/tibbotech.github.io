@@ -5,7 +5,7 @@ want to make they own Linux distribution for they custom board
 or for thouse who wants to take part in bootloader/kernel development for 
 [Plus1/sp7021](https://tibbo.com/store/plus1.html) SoC.
 
-Tibbo hosts prebuild Linux for LTPPxG2 sp7021-based board, including:
+Tibbo hosts prebuild Yocto Linux for its LTPPxG2 sp7021-based board:
 - LTPPxG2 Firmware: <https://tibbo.com/downloads/LTPS/FW/LTPPg2/>
 - LTPPxG2 binary packages: <https://tibbo.com/downloads/LTPS/repo/LTPPg2/>
 - LTPPxG2 SDK: <https://tibbo.com/downloads/LTPS/SDK/LTPPg2/>
