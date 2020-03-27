@@ -76,7 +76,7 @@ In short, iboot (ROM) --(emmc/spinand/sd)--> xboot --(+usb)--> u-boot --(+net)--
 
 > How can I implement Freertos on B-Core on SP7021 (ARM926 Core), or any other RTOS-like operating system?
 
-Source code example for B chip is there: https://github.com/tibbotech/plus1_Bnoos
+Source code example for B chip is there: <https://github.com/tibbotech/plus1_Bnoos>
 
 It is packed to "nonos" part and included into ISPBOOT.BIN.
 Build by ... recipe.
