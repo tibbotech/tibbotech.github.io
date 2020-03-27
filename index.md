@@ -17,9 +17,11 @@ Tibbo is official sp7021 SoC distributor. SoC users may customize Yocto layers
 to create the complete customized uniq Linux distribuition for they
 Plus1 devices.
 
+Repo: [Yocto Layers](https://github.com/tibbotech/yocto_layers).
+
 In short: Highly-customizable Linux distribution.
 
-Target OS and devices: Linux on [Plus1](https://tibbo.com/store/plus1.html).
+Target OS and devices: Linux on [Plus1](https://tibbo.com/store/plus1.html)
 
 # Remote IO
 
@@ -28,7 +30,7 @@ monitor and control the state of digital and analog lines of Tibbo Remote IO
 controllers, and also to monitor external sensors connected to Remote IO 
 Controllers.
 
-See the [GitHub Remote-IO](https://github.com/tibbotech/Remote-IO) repo.
+Repo: [GitHub Remote-IO](https://github.com/tibbotech/Remote-IO).
 
 In short: Scada HW node, modbus/i2c/1w/.. sensors data collector, remote I/O.
 
@@ -40,7 +42,7 @@ Tibbo [Modbus Gateways](https://tibbo.com/modbus-gateways.html)
 routes Modbus requests and replies between Modbus TCP, Modbus ASCII, and 
 Modbus RTU masters and slaves.
 
-See the [GitHub Modbus Gateway](https://github.com/tibbotech/Modbus-Gateway) repo.
+Repo: [GitHub Modbus Gateway](https://github.com/tibbotech/Modbus-Gateway).
 
 Target OS and devices: TiOS on [TPS](https://tibbo.com/tps.html)/[EM2000](http://tibbo.com/store/modules/em2000.html)/[DS110x](http://tibbo.com/store/controllers/ds1101.html).
 
