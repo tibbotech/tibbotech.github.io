@@ -1,4 +1,4 @@
-# [Yocto Layers](/): HowTo: Clonning
+# [Yocto Layers](/plus1_layers): HowTo: Clonning
 
 ```
 git clone git://git.yoctoproject.org/poky.git

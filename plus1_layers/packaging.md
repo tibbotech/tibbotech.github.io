@@ -1,4 +1,4 @@
-# Yocto Layers: HowTo : Packaging
+# [Yocto Layers](/plus1_layers): HowTo : Packaging
 
 ## Private packaging system and packaging delivery
 

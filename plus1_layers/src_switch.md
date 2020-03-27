@@ -1,4 +1,4 @@
-# [Yocto Layers](/): HowTo: Switching between Tibbo (release) and SunPlus (dev) repos
+# [Yocto Layers](/plus1_layers): HowTo: Switching between Tibbo (release) and SunPlus (dev) repos
 
 There are several repos (bootloaders and kernel) hosted in two locations:
 
