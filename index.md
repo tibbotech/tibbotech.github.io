@@ -21,7 +21,7 @@ In short: Highly-customizable Linux distribution.
 
 Target OS and devices: Linux on Plus1.
 
-# <Remote IO>
+# Remote IO
 
 Tibbo [Remote IO solution](https://tibbo.com/remote-io.html) allows you to 
 monitor and control the state of digital and analog lines of Tibbo Remote IO 
@@ -35,7 +35,7 @@ In short: Scada HW node, modbus/i2c/1w/.. sensors data collector, remote I/O.
 Target OS and devices: TiOS on TPS.
 
 
-# <Modbus Gateway>
+# Modbus Gateway
 
 Tibbo [Modbus Gateways](https://tibbo.com/modbus-gateways.html) 
 routes Modbus requests and replies between Modbus TCP, Modbus ASCII, and 
