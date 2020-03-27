@@ -1,2 +1,2 @@
 # Tibbo Technology Inc.
-Open-source repos
+Open-source repos description
