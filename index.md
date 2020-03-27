@@ -10,7 +10,7 @@ Here is the collection of Tibbo Tech. open-source projects.
 Firmware, BuildAppliance, SDK and RPM repo/packets for
 [LTPPxG1](https://tibbo.com/store/tps/ltpp3.html) (old, based on am335x CPU) and 
 [LTPPxG2](https://tibbo.com/store/tps/ltpp3g2.html) (new gen., based on [sp7021 SoC](https://tibbo.com/store/plus1.html))
-and other Tibbo Linux devices are build with open-source Yocto Linux,
+and other Tibbo Linux devices are build with open-source Yocto enviroment,
 Tibbo [Yocto Layers](https://github.com/tibbotech/yocto_layers).
 
 Tibbo is official sp7021 SoC distributor. SoC users may customize Yocto layers
