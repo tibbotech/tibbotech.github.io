@@ -16,15 +16,24 @@ with LTPPxG2 board. The collection includes Tibbo closed-source packages, like
 - [TiOS](https://docs.tibbo.com/taiko/intro_tios).
 - [AggreGate](https://aggregate.tibbo.com/) and AggreGate Agent.
 - etc.
-a well, as open-source software like Python packages, NodeJS modules, JRE,
-various cli utilities.
+
+as well, as Python packages, NodeJS modules, JRE, various cli utilities.
 
 If you're just an application or kernel module developer for LTPPxG2 board then
 SDK fits your needs.
 
-If you have your own Plus1/sp7021-based board then your choice is Yocto Layers:
-clone and customize it for your needs.
+Take a look at our comprehensive [SDK tutorial](https://tibbo.com/linux/native-c.html) 
+guide. It answers the questions, how to build kernel modules and applications for 
+LTPP platform, 
+[SDK + QtCreator](https://tibbo.com/linux/native-c/ide-qt-creator.html)
+and
+[SDK + Eclipse](https://tibbo.com/linux/native-c/ide-qt-creator.html) usage,
+how to setup [SDK on Windows 10](https://tibbo.com/linux/native-c/windows.html) , etc.
 
+## Plus1 SoC In-depth
+
+If you're curious about SoC technical documentation, please take a look at
+[SunPlus/Tibbo Wiki](https://sunplus-tibbo.atlassian.net/wiki/spaces/doc/overview).
 
 ## Yocto Layers: HowTo
 
