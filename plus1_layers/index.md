@@ -82,5 +82,5 @@ In short, iboot (ROM) --(emmc/spinand/sd)--> xboot --(+usb)--> u-boot --(+net)--
 Source code example for B chip is there: <https://github.com/tibbotech/plus1_Bnoos>
 
 It is packed to "nonos" part and included into ISPBOOT.BIN.
-Build by ... recipe.
+Build by "bnoos" recipe.
 
