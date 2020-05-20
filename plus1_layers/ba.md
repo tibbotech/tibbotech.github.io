@@ -92,4 +92,25 @@ Accept keys and interrupt the clone action. System is ready!
 
 ## Builds
 
-Build process described at [HowTo:Build](build).
+In first (non-root) terminal run:
+```
+$ bitbake img-spmn
+```
+More described at [HowTo:Build](build).
+
+## Slow VM Recommendations
+1) Add RAM. Ideally it shoul have 6 GB of RAM, but 4-5 GB is OK too;
+2) add more SWAP (up to 8 GB) and check if the VM is really using it;
+3) make sure if your image is attached to SATA drive with "OS disk cache" option enabled;
+4) add separate VDI or VHD disk image with FIXED size and mount it to /disk2;
+5) switch toaster and history off at local.conf (see below);
+
+Open /home/builder/poky/c.tppg2/conf/local.conf, line: 262
+```
+INHERIT+="toaster buildhistory"
+```
+change to
+```
+#INHERIT+="toaster buildhistory"
+```
+, save the file and start bitbake again. 
