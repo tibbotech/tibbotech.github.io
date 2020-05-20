@@ -32,6 +32,7 @@ Download and unpack image. Create new Virtual Machine in VirtualBox:
 - Storage ->
   - delete IDE controller
   - add 1 SATA controller
+  (*BA requires a lot of disk operations so to get accepable performance enable the "[Host I/O Cache](https://www.electricmonk.nl/log/wp-content/uploads/2016/03/hostiocache-1.png)" setting.*)
   - add 1 existing virtual SATA hdd to SATA controller
   - In the popup "Medium" box click "Add" and choose your unpacked .VMDK image
   - add 1 new virtual SATA hdd to SATA controoller,
