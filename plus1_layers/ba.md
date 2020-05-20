@@ -99,7 +99,7 @@ $ bitbake img-spmn
 More described at [HowTo:Build](build).
 
 ## Slow VM Recommendations
-1) Add RAM. Ideally it shoul have 6 GB of RAM, but 4-5 GB is OK too;
+1) Add RAM. Ideally it should have 6 GB of RAM, but 4-5 GB is OK too;
 2) add more SWAP (up to 8 GB) and check if the VM is really using it;
 3) make sure if your image is attached to SATA drive with "OS disk cache" option enabled;
 4) add separate VDI or VHD disk image with FIXED size of 100 GB and mount it to /disk2;
