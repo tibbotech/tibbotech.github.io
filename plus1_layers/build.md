@@ -1,5 +1,10 @@
 # [Yocto Layers](/plus1_layers): Building
 
+This is "zeus" branch build commands.
+Please look for new version at
+[README](https://github.com/tibbotech/yocto_layers) in recommended (default)
+branch!
+
 ## Get ready for build (should be done once for CLI session)
 Open CLI session (console) and do
 ```

@@ -1,5 +1,10 @@
 # [Yocto Layers](/plus1_layers): Clonning
 
+This is "zeus" branch clonning commands.
+Please look for new version at
+[README](https://github.com/tibbotech/yocto_layers) in recommended (default)
+branch!
+
 ```
 git clone git://git.yoctoproject.org/poky.git
 cd poky; git checkout origin/zeus;
